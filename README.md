@@ -7,3 +7,4 @@
   <p>This is a simple example of a GitHub Pages page.</p>
 </body>
 </html>
+git push origin gh-pages
